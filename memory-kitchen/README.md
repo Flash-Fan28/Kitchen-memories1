@@ -1,3 +1,5 @@
+[README.md](https://github.com/user-attachments/files/29912279/README.md)
+
 # Kitchen Echoes
 
 A browser-based sensory memory board game about a family, a kitchen, and the everyday objects that preserve care.
